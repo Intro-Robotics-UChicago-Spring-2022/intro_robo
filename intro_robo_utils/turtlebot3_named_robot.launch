@@ -1,5 +1,5 @@
 <launch>
-  <arg name="multi_robot_name" default=""/>
+  <arg name="multi_robot_name" default="tb0"/>
   <arg name="set_lidar_frame_id" default="base_scan"/>
 
   <group ns="$(arg multi_robot_name)">
