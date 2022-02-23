@@ -6,6 +6,6 @@
   <param name="multi_robot_name" value="$(arg multi_robot_name)"/>
 
   <!-- turtlebot3_teleop_key already has its own built in velocity smoother -->
-  <node pkg="turtlebot3_custom_teleop" type="turtlebot3_named_teleop_key.py" name="turtlebot3_named_teleop_key"  output="screen">
+  <node pkg="turtlebot3_custom_teleop" type="turtlebot3_named_teleop_key.py" name="turtlebot3_named_teleop_key_$(arg multi_robot_name)"  output="screen">
   </node>
 </launch>
