@@ -1,3 +1,6 @@
 [submodule "lab_b_line_follower"]
 	path = lab_b_line_follower
 	url = https://github.com/Intro-Robotics-UChicago-Spring-2022/lab_b_line_follower
+[submodule "class_meeting_06_likelihood_field"]
+	path = class_meeting_06_likelihood_field
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2022/class_meeting_06_likelihood_field.git
