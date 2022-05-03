@@ -7,3 +7,6 @@
 [submodule "class_meeting_11_cat_recognition"]
 	path = class_meeting_11_cat_recognition
 	url = https://github.com/Intro-Robotics-UChicago-Spring-2022/class_meeting_11_cat_recognition.git
+[submodule "lab_f_traffic_bot"]
+	path = lab_f_traffic_bot
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2022/lab_f_traffic_bot.git
